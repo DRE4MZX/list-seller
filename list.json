@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "title": "Anting",
+    "subtext": "Anting Item Sound",
+    "imageSrc": "images/anting.png",
+    "description": "List Sound Anting",
+    "videos": [
+      { "title": "No 1. DJ SLOW FULL BASS TERBARU 2023", "url": "https://dreamzsound.my.id/antingg/1.mp4" }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Kalung",
+    "subtext": "Kalung Item Sound",
+    "imageSrc": "images/kalung.png",
+    "description": "List Sound Kalung",
+    "videos": [
+      { "title": "No 1. Top 10 Dubstep Songs 🚫", "url": null },
+      { "title": "No 2. Ed Sheeran Full Album", "url": "https://dreamzsound.my.id/kalung/2.mp4" }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Radio",
+    "subtext": "Description Item Sound",
+    "imageSrc": "images/radio.png",
+    "description": "List Sound Radio",
+    "videos": [
+      { "title": "No 1. KUMPULAN LAGU BARAT ENAK", "url": "https://dreamzsound.my.id/radio/1.mp4" },
+      { "title": "No 2. Lagu Jepang Acoustic 🚫", "url": null }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Sepatu",
+    "subtext": "Sepatu Item Sound",
+    "imageSrc": "images/sepatu.png",
+    "description": "List Sound Sepatu",
+    "videos": [
+      { "title": "No 1. best slowed reverb songs playlist 2023", "url": "https://dreamzsound.my.id/sepatu/1.mp4" },
+      { "title": "No 2. Post Malone The Best Song Full Album", "url": "https://dreamzsound.my.id/sepatu/2.mp4" }
+    ]
+  }
+]
