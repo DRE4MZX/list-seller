@@ -1,45 +1,88 @@
 [
   {
     "id": 1,
-    "title": "Anting",
-    "subtext": "Anting Item Sound",
-    "imageSrc": "images/anting.png",
-    "description": "List Sound Anting",
+    "title": "TATOKAKI KODE SMNGKA",
+    "subtext": "TATOKAKI",
+    "imageSrc": "images/tatokaki.png",
+    "description": "Tatokaki",
     "videos": [
-      { "title": "No 1. DJ SLOW FULL BASS TERBARU 2023", "url": "https://dreamzsound.my.id/antingg/1.mp4" }
+      { "title": "No 1. DJ PLAT KT TERBARU 2025", "url": "https://dreamzsound.my.id/vipx/uploads/dmzshop/tatokaki/smngka/1.m4a" },
+      { "title": "No 2. Aggressive Drift Phonk Music", "url": "https://dreamzsound.my.id/vipx/uploads/dmzshop/tatokaki/smngka/2.m4a" },
+      { "title": "No 3. Coffee Lofi 1 Hour Cafe Song", "url": "https://dreamzsound.my.id/vipx/uploads/dmzshop/tatokaki/smngka/3.m4a" },
+      { "title": "No 4. DJ AYO SAYANG CULIK AKU DONG & APT APT", "url": "https://dreamzsound.my.id/vipx/uploads/dmzshop/tatokaki/smngka/4.m4a" },
+      { "title": "No 5. HIPHOP MIX (EMINEM, SNOOP DOGG, ETC)", "url": "https://dreamzsound.my.id/vipx/uploads/dmzshop/tatokaki/smngka/5.m4a" },
+      { "title": "No 6. Playlist Galau Speed Up + Reverb Eng", "url": "https://dreamzsound.my.id/vipx/uploads/dmzshop/tatokaki/smngka/6.m4a" },
+      { "title": "No 7. Playlist Galau Speed Up + Reverb Ind", "url": "https://dreamzsound.my.id/vipx/uploads/dmzshop/tatokaki/smngka/7.m4a" },
+      { "title": "No 8. Music Mix Best Remix DJ Silviu ", "url": "https://dreamzsound.my.id/vipx/uploads/dmzshop/tatokaki/smngka/8.m4a" }
     ]
   },
   {
     "id": 2,
-    "title": "Kalung",
-    "subtext": "Kalung Item Sound",
-    "imageSrc": "images/kalung.png",
-    "description": "List Sound Kalung",
+    "title": "TATOKAKI KODE DGI",
+    "subtext": "TATOKAKI",
+    "imageSrc": "images/sepatu.png",
+    "description": "List Sound Sepatu",
     "videos": [
-      { "title": "No 1. Top 10 Dubstep Songs 🚫", "url": null },
-      { "title": "No 2. Ed Sheeran Full Album", "url": "https://dreamzsound.my.id/kalung/2.mp4" }
+      { "title": "No 1. LAGU CAMPURAN INDO & BARAT UNTUK NYANTAI", "url": "https://dreamzsound.my.id/vipx/uploads/dmzshop/tatokaki/dgi/1.m4a" },
+      { "title": "No 2. BECAKLIST VOL .7 By KRSN", "url": "https://dreamzsound.my.id/vipx/uploads/dmzshop/tatokaki/dgi/2.m4a" },
+      { "title": "No 3. DJ TIKTOK TERBARU 2024 | FULL ALBUM VIRAL", "url": "https://dreamzsound.my.id/vipx/uploads/dmzshop/tatokaki/dgi/4.m4a" },
+      { "title": "No 4. TWICE 2025 SONG PLAYLIST", "url": "https://dreamzsound.my.id/vipx/uploads/dmzshop/tatokaki/dgi/3.m4a" },
+      { "title": "No 5. LOFI INDONESIA ALBUM COVER 2020", "url": "https://dreamzsound.my.id/vipx/uploads/dmzshop/tatokaki/dgi/5.m4a" },
+      { "title": "No 6. a6s84d68as4d86a", "url": "https://dreamzsound.my.id/vipx/uploads/dmzshop/tatokaki/dgi/6.m4a" },
+      { "title": "No 7. a6s84d68as4d86a", "url": "https://dreamzsound.my.id/vipx/uploads/dmzshop/tatokaki/dgi/7.m4a" },
+      { "title": "No 8. a6s84d68as4d86a", "url": "https://dreamzsound.my.id/vipx/uploads/dmzshop/tatokaki/dgi/8.m4a" }
     ]
   },
   {
     "id": 3,
-    "title": "Radio",
-    "subtext": "Description Item Sound",
-    "imageSrc": "images/radio.png",
-    "description": "List Sound Radio",
-    "videos": [
-      { "title": "No 1. KUMPULAN LAGU BARAT ENAK", "url": "https://dreamzsound.my.id/radio/1.mp4" },
-      { "title": "No 2. Lagu Jepang Acoustic 🚫", "url": null }
-    ]
-  },
-  {
-    "id": 4,
-    "title": "Sepatu",
-    "subtext": "Sepatu Item Sound",
+    "title": "TATOKAKI KODE BINTANG",
+    "subtext": "TATOKAKI",
     "imageSrc": "images/sepatu.png",
     "description": "List Sound Sepatu",
     "videos": [
-      { "title": "No 1. best slowed reverb songs playlist 2023", "url": "https://dreamzsound.my.id/sepatu/1.mp4" },
-      { "title": "No 2. Post Malone The Best Song Full Album", "url": "https://dreamzsound.my.id/sepatu/2.mp4" }
+      { "title": "No 1. LAGU CAMPURAN INDO & BARAT UNTUK NYANTAI", "url": "https://dreamzsound.my.id/vipx/uploads/dmzshop/tatokaki/dgi/1.m4a" },
+      { "title": "No 2. BECAKLIST VOL .7 By KRSN", "url": "https://dreamzsound.my.id/vipx/uploads/dmzshop/tatokaki/dgi/2.m4a" },
+      { "title": "No 3. DJ TIKTOK TERBARU 2024 | FULL ALBUM VIRAL", "url": "https://dreamzsound.my.id/vipx/uploads/dmzshop/tatokaki/dgi/4.m4a" },
+      { "title": "No 4. TWICE 2025 SONG PLAYLIST", "url": "https://dreamzsound.my.id/vipx/uploads/dmzshop/tatokaki/dgi/3.m4a" },
+      { "title": "No 5. LOFI INDONESIA ALBUM COVER 2020", "url": "https://dreamzsound.my.id/vipx/uploads/dmzshop/tatokaki/dgi/5.m4a" },
+      { "title": "No 6. a6s84d68as4d86a", "url": "https://dreamzsound.my.id/vipx/uploads/dmzshop/tatokaki/dgi/6.m4a" },
+      { "title": "No 7. a6s84d68as4d86a", "url": "https://dreamzsound.my.id/vipx/uploads/dmzshop/tatokaki/dgi/7.m4a" },
+      { "title": "No 8. a6s84d68as4d86a", "url": "https://dreamzsound.my.id/vipx/uploads/dmzshop/tatokaki/dgi/8.m4a" }
     ]
+  },
+  {
+    "id":4,
+    "title": "TATOKAKI KODE BINTANG",
+    "subtext": "TATOKAKI",
+    "imageSrc": "images/comingsoon.png",
+    "description": "ComingSoon"
+  },
+  {
+    "id":5,
+    "title": "TATOKAKI KODE IMT",
+    "subtext": "TATOKAKI",
+    "imageSrc": "images/comingsoon.png",
+    "description": "ComingSoon"
+  },
+  {
+    "id":6,
+    "title": "ANTING KODE XVX",
+    "subtext": "ANTING",
+    "imageSrc": "images/comingsoon.png",
+    "description": "ComingSoon"
+  },
+  {
+    "id":7,
+    "title": "ANTING KODE XXX",
+    "subtext": "ANTING",
+    "imageSrc": "images/comingsoon.png",
+    "description": "ComingSoon"
+  },
+  {
+    "id":8,
+    "title": "ANTING KODE LOVE",
+    "subtext": "ANTING",
+    "imageSrc": "images/comingsoon.png",
+    "description": "ComingSoon"
   }
 ]
