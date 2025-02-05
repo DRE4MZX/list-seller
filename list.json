@@ -21,7 +21,7 @@
     "title": "TATOKAKI KODE DGI",
     "subtext": "TATOKAKI",
     "imageSrc": "images/tatokaki.png",
-    "description": "List Sound Sepatu",
+    "description": "TatoKaki",
     "videos": [
       { "title": "No 1. LAGU CAMPURAN INDO & BARAT UNTUK NYANTAI", "url": "https://dreamzsound.my.id/vipx/uploads/dmzshop/tatokaki/dgi/1.m4a" },
       { "title": "No 2. BECAKLIST VOL .7 By KRSN", "url": "https://dreamzsound.my.id/vipx/uploads/dmzshop/tatokaki/dgi/2.m4a" },
@@ -35,10 +35,13 @@
   },
   {
     "id": 3,
-    "title": "TATOKAKI KODE BINTANG",
-    "subtext": "TATOKAKI",
-    "imageSrc": "images/comingsoon.png",
-    "description": "ComingSoon"
+    "title": "ANTING KODE XXX",
+    "subtext": "ANTING",
+    "imageSrc": "images/anting.png",
+    "description": "Anting",
+    "videos": [
+      { "title": "No 1. DJ KLIBO JEDAG JEDUG GANG KANE 2025", "url": "https://dreamzsound.my.id/vipx/uploads/dmzshop/anting/XXX/1.m4a" },
+    ]
   },
   {
     "id":4,
@@ -63,8 +66,8 @@
   },
   {
     "id":7,
-    "title": "ANTING KODE XXX",
-    "subtext": "ANTING",
+    "title": "TATOKAKI KODE BINTANG",
+    "subtext": "TATOKAKI",
     "imageSrc": "images/comingsoon.png",
     "description": "ComingSoon"
   },
