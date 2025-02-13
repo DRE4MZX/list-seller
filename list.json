@@ -3,7 +3,7 @@
     "id": 1,
     "title": "TATOKAKI KODE SMNGKA",
     "subtext": "TATOKAKI",
-    "imageSrc": "images/tatokaki.png",
+    "imageSrc": "images/smngka.png",
     "description": "Tatokaki",
     "videos": [
       { "title": "No 1. DJ PLAT KT TERBARU 2025", "url": "https://dreamzsound.my.id/vipx/uploads/dmzshop/tatokaki/smngka/1.m4a" },
@@ -20,7 +20,7 @@
     "id": 2,
     "title": "TATOKAKI KODE DGI",
     "subtext": "TATOKAKI",
-    "imageSrc": "images/tatokaki.png",
+    "imageSrc": "images/dgi.webp",
     "description": "TatoKaki",
     "videos": [
       { "title": "No 1. LAGU CAMPURAN INDO & BARAT UNTUK NYANTAI", "url": "https://dreamzsound.my.id/vipx/uploads/dmzshop/tatokaki/dgi/1.m4a" },
@@ -37,7 +37,7 @@
     "id": 3,
     "title": "ANTING KODE XXX",
     "subtext": "ANTING",
-    "imageSrc": "images/anting.png",
+    "imageSrc": "images/anting.webp",
     "description": "Anting",
     "videos": [
       { "title": "No 1. DJ KLIBO JEDAG JEDUG GANG KANE 2025", "url": "https://dreamzsound.my.id/vipx/uploads/dmzshop/anting/xxx/1.m4a" }
@@ -47,8 +47,11 @@
     "id":4,
     "title": "TATOKAKI KODE BINTANG",
     "subtext": "TATOKAKI",
-    "imageSrc": "images/comingsoon.png",
-    "description": "ComingSoon"
+    "imageSrc": "images/tatokaki.png",
+    "description": "TatoKaki",
+    "videos": [
+      { "title": "New PlayList By LX", "url": "https://dreamzsound.my.id/vipx/uploads/dmzshop/tatokaki/bintang/1.m4a" }
+    ]
   },
   {
     "id":5,
